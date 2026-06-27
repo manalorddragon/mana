@@ -1,0 +1,17 @@
+body{
+    background: #05010c;
+}
+h1 {
+    color: #ffffff;
+    font-size: 2rem; /* size, not "size" */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h5{
+    position: fixed;
+    bottom: 5%;
+    left: 5%;
+    color: #303030ff;
+}
